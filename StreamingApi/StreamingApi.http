@@ -1,0 +1,6 @@
+@StreamingApi_HostAddress = http://localhost:5231
+
+GET {{StreamingApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
